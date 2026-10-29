@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Notation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 MusiCAD Free Installer** — MusiCAD is a music notation software for Windows focusing on band and ensemble music. Works without internet access, no account required. Full offline installation.
+**💻 MusiCAD Free Installer** — MusiCAD is a music notation editor for Windows focused on producing lead sheets and simple arrangements. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About MusiCAD
 
-MusiCAD is a music notation software for Windows focusing on band and ensemble music. It provides notation entry, transposition, part extraction, and printing for traditional ensemble arrangements.
+MusiCAD is a music notation editor for Windows focused on producing lead sheets and simple arrangements. Write melody lines with chord symbols and lyrics, generate simple accompaniment patterns, and print music for rehearsal use. MusiCAD's simplified approach targets music teachers, church musicians, and folk musicians who need functional notation without professional engraving quality.
 
 ---
 
 ## ❌ Problem: MusiCAD is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **Niche Audience** — Primarily for traditional band and ensemble arrangements
-- **Paid License** — Requires purchase
-- **Competition** — MuseScore is free and handles ensemble notation effectively
+- **Windows Only** — No cross-platform support
+- **Limited Complexity** — Not suitable for orchestral or complex ensemble scores
+- **Commercial License** — Paid software
+- **Interface Design** — Dated visual design
 
 ---
 
@@ -121,7 +121,7 @@ MusiCAD is a music notation software for Windows focusing on band and ensemble m
 
 ---
 
-**MusiCAD Free Installer** — MusiCAD is a music notation software for Windows focusing on band and ensemble music. Install without internet connection today!
+**MusiCAD Free Installer** — MusiCAD is a music notation editor for Windows focused on producing lead sheets and simple arrangements. Install without internet connection today!
 
 <div align="center">
 
